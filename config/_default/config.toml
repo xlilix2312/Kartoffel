@@ -1,0 +1,42 @@
+DefaultContentLanguage = "fr"
+baseURL = "/"
+disableFastRender = true
+disableKinds = ["categories"]
+languageCode = "fr-fr"
+min_version = 0.3
+minify = false
+paginate = 999
+pygmentsCodeFences = false
+pygmentsUseClasses = false
+relativeURLs = true
+
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+  [markup.blackfriday]
+    smartypantsQuotesNBSP = false
+    angledQuotes = false
+    safeHTML = false
+    footnoteReturnLinkContents = "↑"
+
+#modèle galerie
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
+
+[params.cookies]
+enable = false
+expire_days = 2

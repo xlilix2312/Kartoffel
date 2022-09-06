@@ -1,0 +1,38 @@
+{{- printf "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>" | safeHTML }}
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ops="http://www.idpf.org/2007/ops"
+      xml:lang="{{ .Lang }}">
+  <head>
+    <title>{{ .Site.Params.title }}: {{ .Title }}</title>
+    <link rel="stylesheet" type="text/css" href="css/stylesheet.css" />
+  </head>
+{{- if eq .Params.Ebook "toc" }}
+  <body>
+  
+   <h1>{{ .Site.Params.title }}</h1>  
+
+   <nav ops:type="toc">
+   
+    <h2>{{ .Title }}</h2>
+
+      <ol>
+        <li><a href="couverture.xhtml">Page de titre</a></li>
+        <li><a href="about.xhtml">About</a></li>
+{{- $i := 0 }}
+{{- range ( where .Site.RegularPages.ByWeight "Section" "ne" "" ) }}
+{{- if eq .Params.chapitre "oui" -}}
+        <li><a href="{{ replace .Permalink "/content/" "" }}">{{ .Title  }} — {{ .Description }}</a></li>
+
+{{- $i = add $i 1 }}
+{{- end -}}
+{{- end }}
+     </ol>
+
+  </nav>
+{{ else }}
+  <body ops:type="chapter">
+{{ if eq .Params.Ebook "cover" }}{{ else }}<h1>{{ .Title }}</h1>{{ end }}
+{{ .Content }}
+{{- end }}
+  </body>
+</html>
