@@ -17,11 +17,6 @@ identifier = "print"
 name = "Print"
 url = "/print"
 weight = 3
-[[menu.main]]
-identifier = "epub"
-name = "EPUB"
-url = "/ebook.epub"
-weight = 3
 [outputs]
 home = ["HTML"]
 page = ["HTML"]

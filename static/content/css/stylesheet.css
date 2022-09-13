@@ -68,12 +68,6 @@ blockquote p { padding-left: 1em; font-style: italic; font-size: 1.2em;}
 aside h2 {font-size: 1.5em; text-align: left; margin-left:0; }
 aside h3 {font-size: 1.2em; text-align: left; margin-left:0; }
 
-/* weil man bei EPUB ol verwenden muß, die Zahlen aber nicht braucht */
-nav ol {list-style-type: circle}
-
-dt {font-size: 1.2em; font-variant: small-caps; margin-top:0.5ex}
-dd {padding-left: 2ex}
-
 /* Figuren und Graphiken, Behälter für eingebettete Strukturen*/
 figure, figcaption {display: block}
 figure { margin-top: 2em; text-align: center;}
