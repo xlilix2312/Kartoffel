@@ -6,9 +6,9 @@ title = ""
 weight = 3
 chapitre = "oui"
 +++
-LETTER II.
+**LETTER II.**
 
-To Mrs. Saville, England.
+*To Mrs. Saville, England.*
 
 Archangel, 28th March, 17—.
 
