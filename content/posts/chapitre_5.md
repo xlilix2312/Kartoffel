@@ -1,5 +1,5 @@
 +++
-chapter = "Chapitre [5]"
+chapter = "Chapitre 5"
 date = "2020-10-31T10:01:00.000+00:00"
 image = "images/logo.png"
 title = ""
@@ -20,27 +20,12 @@ Morning, dismal and wet, at length dawned, and discovered to my sleepless and ac
 
 I continued walking in this manner for some time, endeavouring, by bodily exercise, to ease the load that weighed upon my mind. I traversed the streets, without any clear conception of where I was, or what I was doing. My heart palpitated in the sickness of fear; and I hurried on with irregular steps, not daring to look about me:—
 
-"Like one who, on a lonely road,
-
-
-
+> "Like one who, on a lonely road,
 ⁠Doth walk in fear and dread,
-
-
-
 And, having once turned round, walks on,
-
-
-
-⁠And turns no more his head;
-
-
-
+And turns no more his head;
 Because he knows a frightful fiend
-
-
-
-⁠Doth close behind him tread."[1]
+Doth close behind him tread." [Coleridge’s “Ancient Mariner.”](https://en.wikisource.org/wiki/The_Rime_of_the_Ancient_Mariner)
 
 
 
