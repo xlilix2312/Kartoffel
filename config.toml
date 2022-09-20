@@ -1,0 +1,32 @@
+disableFastRender = true
+theme = "roman"
+[frontmatter]
+date = [":filename", ":default"]
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 2
+[[menu.main]]
+identifier = "index"
+name = "Contents"
+url = "/"
+weight = 1
+[[menu.main]]
+identifier = "print"
+name = "Print"
+url = "/print"
+weight = 3
+[outputs]
+home = ["HTML"]
+page = ["HTML"]
+section = ["HTML"]
+[permalinks]
+pages = "/:filename"
+posts = "/:filename"
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
+[taxonomies]
+tag = "tags"
