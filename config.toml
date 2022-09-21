@@ -4,9 +4,9 @@ theme = "roman"
 date = [":filename", ":default"]
 [[menu.main]]
 identifier = "about"
-name = "About"
+name = "À propos"
 url = "/about/"
-weight = 2
+weight = 3
 [[menu.main]]
 identifier = "index"
 name = "Contents"
@@ -16,7 +16,7 @@ weight = 1
 identifier = "print"
 name = "Print"
 url = "/print"
-weight = 3
+weight = 4
 [outputs]
 home = ["HTML"]
 page = ["HTML"]

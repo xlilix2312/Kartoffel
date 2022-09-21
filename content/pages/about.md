@@ -1,5 +1,5 @@
 ---
-title: About
+title: À propos 
 date: 2021-02-06
 weight: 50
 type: colophon
