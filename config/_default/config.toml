@@ -11,12 +11,29 @@ pygmentsUseClasses = false
 relativeURLs = true
 
 [markup]
-  defaultMarkdownHandler = "blackfriday"
-  [markup.blackfriday]
-    smartypantsQuotesNBSP = false
-    angledQuotes = false
-    safeHTML = false
-    footnoteReturnLinkContents = "↑"
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      linkifyProtocol = 'https'
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      autoHeadingIDType = 'github'
+      wrapStandAloneImageWithinParagraph = true
+      [markup.goldmark.parser.attribute]
+        block = false
+        title = true
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = false
+      xhtml = false
+
 
 #modèle galerie
 # CSS Plugins
