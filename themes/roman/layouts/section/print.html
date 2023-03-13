@@ -11,6 +11,7 @@
     <section class="chapitre">
     <h2 class="titre-chapitre" id="{{.File.BaseFileName}}">{{ .Params.chapter | markdownify }}</h2>
     <h3>{{ .Title | markdownify }}</h3>
+    <h4 class="post-editor" style="text-align: center;">{{ .Params.Editor }}</h4>
     <div class="contenu">
         {{ .Content }}
     </div>
@@ -18,7 +19,7 @@
     {{end}}
     {{ if eq .Site.Params.quatrieme "oui" }}
     <section class="derniere">
-      <p style="text-align: center;">{{ .Site.Params.licence }} {{ .Site.Params.auteur }}</p>
+      <p>{{ .Site.Params.licence }} {{ .Site.Params.auteur }}</p>
       <p>{{ .Site.Params.isbn }}</p>
     </section>
     {{ end }}

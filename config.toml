@@ -6,17 +6,17 @@ date = [":filename", ":default"]
 identifier = "about"
 name = "À propos"
 url = "/about/"
-weight = 3
+weight = 2
 [[menu.main]]
 identifier = "index"
-name = "Contents"
+name = "Contenus"
 url = "/"
 weight = 1
 [[menu.main]]
 identifier = "print"
-name = "Print"
+name = "Impression"
 url = "/print"
-weight = 4
+weight = 3
 [outputs]
 home = ["HTML"]
 page = ["HTML"]
