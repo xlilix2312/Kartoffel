@@ -548,19 +548,6 @@ code.highlighter-rouge {
   /* Legacy iOS */
 }
 
-@font-face {
-  font-family: 'Old London';
-  font-style: normal;
-  font-weight: 400;
-  font-display: auto;
-  src: url('https://mmellet.github.io/La_Fabrique_de_Poe/fonts/olondo.woff');
-  /* IE9 Compat Modes */
-  src: local('Old London'), local('Old London'),
-    url('/fonts/olondo.woff') format('woff2'),
-    /* Super Modern Browsers */
-    url('/fonts/olondo.ttf') format('truetype'),
-    /* Safari, Android, iOS */
-}
 
 // base
 body {
