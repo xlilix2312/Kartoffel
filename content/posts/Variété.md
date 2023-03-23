@@ -39,4 +39,4 @@ Cette variété de pomme de terre a une peau jaune et est particulièrement popu
 
 Cette variété a une peau bleue intense, est également facile à cultiver et est particulièrement délicieuse lorsqu’elle est transformée en chips.
 
-[go to Histoire]()
+[go to Histoire](https://xlilix2312.github.io/Kartoffel/histoire/)
