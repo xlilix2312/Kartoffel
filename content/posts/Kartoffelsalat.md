@@ -12,7 +12,7 @@ title: "Kartoffelsalat"
 
 
 
-## *Les ingrédients*
+## **Les ingrédients**
 * 1.5 kg de pomme de terre
 * 2 oignons moyens
 * 7 cl d’huile
