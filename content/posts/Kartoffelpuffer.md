@@ -6,7 +6,6 @@ title: "Kartoffelpuffer"
 
 ![Les galettes de pomme de terre](/media/Kartoffelpuffer.jpg)
 
-
 **Temps**       35 minutes
 
 **Portions**    4 portions
