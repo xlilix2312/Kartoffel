@@ -4,7 +4,7 @@ title: "Kartoffelsalat"
 
 ## *Kartoffelsalat* ou la salade de pomme de terre
 
-![Les pommes de terre sautées au lardon](/media/Bratkartoffeln.jpg)
+![La salade de pomme de terre](/media/Kartoffelsalat.jpg)
 
 **Temps**       70 minutes
 
