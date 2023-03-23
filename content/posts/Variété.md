@@ -38,3 +38,5 @@ Cette variété de pomme de terre a une peau jaune et est particulièrement popu
 ![La pomme de terre Bleu d’Artois](/media/Bleue.jpg)
 
 Cette variété a une peau bleue intense, est également facile à cultiver et est particulièrement délicieuse lorsqu’elle est transformée en chips.
+
+[go to Histoire]()
