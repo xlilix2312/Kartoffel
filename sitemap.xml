@@ -31,12 +31,6 @@
   </url>
   
   <url>
-    <loc>/kartoffelsalat/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>/bratkartoffeln/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -62,6 +56,12 @@
   
   <url>
     <loc>/kartoffelp%C3%BCree/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/kartoffelsalat/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
