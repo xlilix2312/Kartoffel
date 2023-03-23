@@ -49,6 +49,12 @@
   </url>
   
   <url>
+    <loc>/kartoffelpuffer/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/post1/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
