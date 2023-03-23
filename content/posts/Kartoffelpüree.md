@@ -25,7 +25,7 @@ title: "Kartoffelpüree"
 4. Chauffer le beurre et le lait un peu au micro-ondes. Ajouter ces deux choses aux pommes de terre à feu doux. Mélanger jusqu’à formation d’une masse homogène.
 5. Ajoutez encore du beurre ou du lait si vous voulez que le mélange soit plus liquide. Salez et poivrez au goût.
 
-### Mon conseil
+### **Mon conseil**
 
 Personnellement, j’adore mon Kartoffelpüree liquide et sans morceaux. Cependant, les opinions en Allemagne différent considérablement ici. D’autres aiment les morceaux dans le Kartoffelpüree et ne l’aiment pas du tout quand elle est trop liquide. À vous d’essayer comment vous l’aimez le mieux  !
 De surcroît, Kartoffelpüree avec des bâtonnets de poisson est un repas pour enfants très populaire en Allemagne. Moi, j’aime toujours cette combinaison à ce jour et je ne peux que la recommander. 
