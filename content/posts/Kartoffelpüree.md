@@ -4,10 +4,10 @@ title: "Kartoffelpüree"
 
 ## *Kartoffelpüree* ou la purée de pommes de terre
 
-![Les pommes de terre sautées au lardon](/media/Bratkartoffeln.jpg)
-
+![La purée de pommes de terre](/media/Kartoffelpüree.jpg)
 
 **Temps**       30 minutes
+
 **Portions**    4 portions
 
 

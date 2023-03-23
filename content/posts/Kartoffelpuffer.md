@@ -20,7 +20,7 @@ title: "Kartoffelpuffer"
 * Plusieurs c. à soupe d’huile
 * Sel et poivre au goût
 
-### La préparation
+### **La préparation**
 1. Bien égoutter les pommes de terre et les oignons sur un torchon de cuisine, du papier absorbant ou à l'aide d'une passoire, puis mélanger ensemble. Il est important qu’il y ait le moins de liquide possible dans ce mélange. 
 2. Battre les œufs avec la farine et ajouter les pommes de terre. Saler et poivrer au goût. Maintenant, remuer jusqu’à ce que vous obteniez une consistance lisse.
 3. Avec une fourchette, façonner la réparation en plusieurs galettes.
