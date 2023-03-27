@@ -4,7 +4,7 @@ title: "Kartoffelsalat"
 
 ## *Kartoffelsalat* ou la salade de pomme de terre
 
-![La salade de pomme de terre](/media/Kartoffelsalat.jpg)
+![La salade de pomme de terre](/images/Kartoffelsalat.jpg)
 
 **Temps**       70 minutes
 

@@ -4,7 +4,7 @@ title: "Kartoffelauflauf"
 
 ## *Kartoffelauflauf* ou gratin de pommes de terre
 
-![Le gratin de pommes de terre](/media/Kartoffelauflauf.jpg)
+![Le gratin de pommes de terre](/images/Kartoffelauflauf.jpg)
 
 **Temps**       75 minutes
 

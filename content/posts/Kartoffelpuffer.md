@@ -4,7 +4,7 @@ title: "Kartoffelpuffer"
 
 ## *Kartoffelpuffer* ou les galettes de pomme de terre
 
-![Les galettes de pomme de terre](/media/Kartoffelpuffer.jpg)
+![Les galettes de pomme de terre](/images/Kartoffelpuffer.jpg)
 
 **Temps**       35 minutes
 

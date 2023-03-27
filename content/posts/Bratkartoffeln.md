@@ -4,7 +4,7 @@ title: "Bratkartoffeln"
 
 ## *Bratkartoffeln* ou les pommes de terre sautées
 
-![Les pommes de terre sautées au lardon](/media/Bratkartoffeln.jpg)
+![Les pommes de terre sautées au lardon](/images/Bratkartoffeln.jpg)
 
 **Temps**       40 minutes
 

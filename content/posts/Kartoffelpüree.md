@@ -4,7 +4,7 @@ title: "Kartoffelpüree"
 
 ## *Kartoffelpüree* ou la purée de pommes de terre
 
-![La purée de pommes de terre](/media/Kartoffelpüree.jpg)
+![La purée de pommes de terre](/images/Kartoffelpüree.jpg)
 
 **Temps**       30 minutes
 
