@@ -27,7 +27,7 @@ Cette variété de pomme de terre a une peau rose, est polyvalente et convient �
 
 ![La pomme de terre blanche](/images/Blanche.jpg)
 
-Cette variété de pomme de terre a une peau jaune et est particulièrement populaire auprès des jardiniers amateurs, car elle est très facile à cultiver. [^1]
+Cette variété de pomme de terre a une peau jaune et est particulièrement populaire auprès des jardiniers amateurs, car elle est très facile à cultiver. [^4]
 
 
 
@@ -41,4 +41,4 @@ Cette variété a une peau bleue intense, est également facile à cultiver et e
 
 [En savoir plus sur l'histoire de la pomme de terre](https://xlilix2312.github.io/Kartoffel/histoire/)
 
-[^1]: Mon père, par exemple, plante avec succès cette variante dans son jardin.
+[^4]: Mon père, par exemple, plante avec succès cette variante dans son jardin.
