@@ -682,7 +682,7 @@ figcaption {
 .content-title {
   font-size: 2em;
   margin-bottom: 2em;
-  text-align: justify;
+  text-align: center;
 }
 
 .post-date {
@@ -841,7 +841,7 @@ figcaption {
 
   .post-link__heading {
     display: block;
-    margin-right: 4em;
+    margin-right: 40em;
 
     @media (min-width: $on-tablet) {
       padding: .25em 0;
