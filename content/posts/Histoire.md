@@ -15,4 +15,4 @@ Ce n’est qu’au 18ème siècle que le pharmacien [Antoine-Augustin Parmentier
 **Fait amusant  :**  Parmentier prépare un dîner pour le roi et la reine, au cours duquel seulement des plats avec des pommes de terre sont servis. À mon avis, ce dîner ressemble à un dîner que j’apprécierais beaucoup.
 Désormais, la pomme de terre devient de plus en plus importante et ne cesse de se répandre dans toute l’Europe et dans d’autres régions jusqu’à ce qu’elle conquière finalement le monde entier à la fin du 20ème siècle.
 
-[En savoir plus sur les variétés de pomme de terre](https://xlilix2312.github.io/Kartoffel/Variété/)
+[En savoir plus sur les variétés de pomme de terre](https://xlilix2312.github.io/Kartoffel/vari%C3%A9t%C3%A9/)

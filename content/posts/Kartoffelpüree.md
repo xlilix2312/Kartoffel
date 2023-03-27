@@ -30,5 +30,5 @@ title: "Kartoffelpüree"
 Personnellement, j’adore mon Kartoffelpüree liquide et sans morceaux. Cependant, les opinions en Allemagne différent considérablement ici. D’autres aiment les morceaux dans le Kartoffelpüree et ne l’aiment pas du tout quand elle est trop liquide. À vous d’essayer comment vous l’aimez le mieux  !
 De surcroît, Kartoffelpüree avec des bâtonnets de poisson est un repas pour enfants très populaire en Allemagne. Moi, j’aime toujours cette combinaison à ce jour et je ne peux que la recommander. 
 
-[Aller à la recette *Kartoffelsalat*](https://xlilix2312.github.io/Kartoffel/Kartoffelsalat/)
+[Aller à la recette *Kartoffelsalat*](https://xlilix2312.github.io/Kartoffel/kartoffelsalat/)
 
