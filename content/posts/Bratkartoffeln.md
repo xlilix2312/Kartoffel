@@ -32,6 +32,6 @@ title: "Bratkartoffeln"
 
 Bratkartoffeln sont un plat très populaire en Allemagne et elles sont souvent servies avec le Wiener Schnitzel typique. Cependant, ma façon préférée de les manger est avec un œuf au plat. La jaune d’œuf fond sur les Bratkartoffeln, ce qui crée une combinaison extrêmement savoureuse.
 
-[Aller à la recette *Kartoffelauflauf*](https://xlilix2312.github.io/Kartoffel/Kartoffelauflauf)
+[Aller à la recette *Kartoffelauflauf*](https://xlilix2312.github.io/Kartoffel/Kartoffelauflauf/)
 
 
