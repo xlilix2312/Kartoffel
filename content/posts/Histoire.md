@@ -8,7 +8,7 @@ La *Kartoffel* ou la pomme de terre provient à l’origine de la Cordillère de
 
 **Fait amusant  :**  En France, la pomme de terre était initialement considérée comme toxique pour l’homme et n’était donc donnée qu’aux animaux.
 
-![Antoine-Augustin Parmentier](static/images/Parmentier.jpg)
+![Antoine-Augustin Parmentier](/static/images/Parmentier.jpg)
 
 Ce n’est qu’au 18ème siècle que le pharmacien [Antoine-Augustin Parmentier](https://fr.wikipedia.org/wiki/Antoine_Parmentier) dissout cette erreur. Il commence à cultiver la pomme de terre en France et souligne l’importance d’utiliser la pomme de terre pour lutter contre les famines. 
 
