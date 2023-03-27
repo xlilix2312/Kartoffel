@@ -1,3 +1,4 @@
+---
 auteur = "Auteur"
 bloctexte = "justify"
 copyright = "CC BY-NC-SA"
@@ -16,5 +17,6 @@ readingtime = "oui"
 search = false
 soustitre = "Sous-titre"
 titre = "Titre"
+---
 
 hallo
