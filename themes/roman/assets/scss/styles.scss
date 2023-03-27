@@ -841,7 +841,8 @@ figcaption {
 
   .post-link__heading {
     display: block;
-    margin-right: 40em;
+    margin-right: 0em;
+    text-align: left;
 
     @media (min-width: $on-tablet) {
       padding: .25em 0;
