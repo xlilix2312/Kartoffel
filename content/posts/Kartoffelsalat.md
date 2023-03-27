@@ -2,7 +2,7 @@
 title: "Kartoffelsalat"
 ---
 
-## *Kartoffelsalat* ou la salade de pomme de terre
+## ou la salade de pomme de terre
 
 ![La salade de pomme de terre](/images/Kartoffelsalat.jpg)
 

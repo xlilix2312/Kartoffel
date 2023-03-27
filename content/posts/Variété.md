@@ -13,7 +13,7 @@ Les variétés de pommes de terre les plus connues sont probablement celles de c
 
 
 
-**La pomme de terre Jeannette**
+### **La pomme de terre Jeannette**
 
 ![La pomme de terre Jeannette](/images/Jeannette.jpg)
 
@@ -23,7 +23,7 @@ Cette variété de pomme de terre a une peau rose, est polyvalente et convient �
 
 
 
-**La pomme de terre blanche**
+### **La pomme de terre blanche**
 
 ![La pomme de terre blanche](/images/Blanche.jpg)
 
@@ -33,7 +33,7 @@ Cette variété de pomme de terre a une peau jaune et est particulièrement popu
 
 
 
-**La pomme de terre Bleu d’Artois**
+### **La pomme de terre Bleu d’Artois**
 
 ![La pomme de terre Bleu d’Artois](/images/Bleue.jpg)
 
