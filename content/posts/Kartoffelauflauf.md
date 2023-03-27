@@ -29,3 +29,5 @@ title: "Kartoffelauflauf"
 ### **Mon conseil**
 
 En fait, le Kartoffelauflauf est une recette que je n’ai connue que récemment, mais qui a immédiatement conquis mon estomac et mon cœur. Lorsque j’ai préparé ce plat pour la première fois pour ma famille, chaque membre de la famille a tout de suite adoré cette recette. En effet, c’est le plat préféré de ma sœur depuis. À mon avis, ce plat se marie bien avec le poisson cuit au four. 
+
+[Aller à la recette *Kartoffelpuffer*](https://xlilix2312.github.io/Kartoffel/Kartoffelpuffer)
