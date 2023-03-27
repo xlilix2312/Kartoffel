@@ -2,7 +2,7 @@
 title: "Kartoffelauflauf"
 ---
 
-## *Kartoffelauflauf* ou gratin de pommes de terre
+## ***Kartoffelauflauf* ou gratin de pommes de terre**
 
 ![Le gratin de pommes de terre](/images/Kartoffelauflauf.jpg)
 

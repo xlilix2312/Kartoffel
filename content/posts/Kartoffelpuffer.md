@@ -2,7 +2,7 @@
 title: "Kartoffelpuffer"
 ---
 
-## *Kartoffelpuffer* ou les galettes de pomme de terre
+## ***Kartoffelpuffer* ou les galettes de pomme de terre**
 
 ![Les galettes de pomme de terre](/images/Kartoffelpuffer.jpg)
 

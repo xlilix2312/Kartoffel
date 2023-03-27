@@ -2,7 +2,7 @@
 title: "Kartoffelpüree"
 ---
 
-## *Kartoffelpüree* ou la purée de pommes de terre
+## ***Kartoffelpüree* ou la purée de pommes de terre**
 
 ![La purée de pommes de terre](/images/Kartoffelpüree.jpg)
 

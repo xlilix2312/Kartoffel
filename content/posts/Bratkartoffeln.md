@@ -2,7 +2,7 @@
 title: "Bratkartoffeln"
 ---
 
-## *Bratkartoffeln* ou les pommes de terre sautées
+## ***Bratkartoffeln* ou les pommes de terre sautées**
 
 ![Les pommes de terre sautées au lardon](/images/Bratkartoffeln.jpg)
 
