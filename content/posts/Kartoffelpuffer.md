@@ -28,10 +28,7 @@ title: "Kartoffelpuffer"
 
 ### **Mon conseil**
 
-Kartoffelpuffer sont servies des manières différentes dans différentes régions d’Allemagne, mais aussi dans différentes parties du monde. Personnellement, je les mange avec de la compote de pommes ce qui est délicieux. J’ai de très bons souvenirs d’enfance de manger des Kartoffelpuffer avec de la compote de pommes sur la plage dans le nord de l’Allemagne. Sinon, une autre option sucrée est de manger les Kartoffelpuffer avec de la confiture. Ici, la confiture de groseilles ou de prunes est particulièrement appropriée [^2]. En revanche, une amie de Pologne les mange toujours de manière salée. Elle préfère le fromage blanc, mais d’autres variantes populaires en Pologne sont la crème fraîche, le fromage cottage ou le gruyère. Choisissez ce que vous voulez  !
+Kartoffelpuffer sont servies des manières différentes dans différentes régions d’Allemagne, mais aussi dans différentes parties du monde. Personnellement, je les mange avec de la compote de pommes ce qui est délicieux. J’ai de très bons souvenirs d’enfance de manger des Kartoffelpuffer avec de la compote de pommes sur la plage dans le nord de l’Allemagne. Sinon, une autre option sucrée est de manger les Kartoffelpuffer avec de la confiture. Ici, la confiture de groseilles ou de prunes est particulièrement appropriée. Cette combinaison a encore meilleur goût avec de la confiture maison. En revanche, une amie de Pologne les mange toujours de manière salée. Elle préfère le fromage blanc, mais d’autres variantes populaires en Pologne sont la crème fraîche, le fromage cottage ou le gruyère. Choisissez ce que vous voulez  !
 
-
-
-[^2]: Il a encore meilleur goût avec de la confiture maison.
 
 [Aller à la recette *Kartoffelpüree*](https://xlilix2312.github.io/Kartoffel/kartoffelp%C3%BCree/)

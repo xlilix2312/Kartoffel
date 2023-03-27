@@ -15,9 +15,12 @@ Ce n’est qu’au 18ème siècle que le pharmacien [Antoine-Augustin Parmentier
 > Savez-vous que nous avons connu cinq ans de famine parce qu'une mauvaise bête a anéanti nos récoltes de pommes de terre? La pomme de terre, monsieur, est aux Irlandais ce qu'est le riz aux Chinois. [^1]
 
 **Fait amusant  :**  Parmentier prépare un dîner pour le roi et la reine, au cours duquel seulement des plats avec des pommes de terre sont servis. À mon avis, ce dîner ressemble à un dîner que j’apprécierais beaucoup.
-Désormais, la pomme de terre devient de plus en plus importante et ne cesse de se répandre dans toute l’Europe et dans d’autres régions jusqu’à ce qu’elle conquière finalement le monde entier à la fin du 20ème siècle.
+Désormais, la pomme de terre devient de plus en plus importante et ne cesse de se répandre dans toute l’Europe et dans d’autres régions jusqu’à ce qu’elle conquière finalement le monde entier à la fin du 20ème siècle. En Irlande, la pomme de terre est même considérée comme un signe d'amour.
+
+> Quand il y a de l'amour, il n'est pas difficile de couper la pomme de terre en deux. [^2]
 
 
 [^1]: Maurice Denuzière, 2003.
+[^2]: Proverbe irlandais.
 
 [En savoir plus sur les variétés de pomme de terre](https://xlilix2312.github.io/Kartoffel/vari%C3%A9t%C3%A9/)
