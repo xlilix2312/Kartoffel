@@ -1,4 +1,4 @@
-auteur = "Auteur"
+auteur = "Lili Ricke"
 bloctexte = "justify"
 copyright = "CC BY-NC-SA"
 couverture = "/uploads/couverture.png"
@@ -14,5 +14,5 @@ mention = "Fabrique"
 quatrieme = "oui"
 readingtime = "oui"
 search = false
-soustitre = "Sous-titre"
-titre = "Titre"
+soustitre = "image"
+titre = "Die Kartoffel"
