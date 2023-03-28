@@ -818,7 +818,7 @@ figcaption {
   .post-link {
     color: $text-color;
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: row;
     text-decoration: none;
     padding: .25em;
     transition: opacity .125s ease-in-out;
@@ -893,7 +893,7 @@ figcaption {
 
   // article
   .post {
-    background: rgb(185, 137, 212);
+    background: rgb(216, 180, 236);
     margin: 2em auto;
     max-width: 60rem;
     padding: 2em 0;
