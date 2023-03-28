@@ -962,13 +962,12 @@ figcaption {
   .footnote {
     border: 1px;
     border-radius: 1em;
-    color: rgb(0, 255, 255);
     display: inline;
     font-size: .75em;
     font-weight: 700;
     padding: 0 .75em;
     margin: 0 .25em;
-    $text-color: #eb1b1b;
+    $text-color: #ff0000;
 
     &:hover,
     &:focus {
