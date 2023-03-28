@@ -800,13 +800,13 @@ figcaption {
 
   // post-list
   .post-list {
-    margin: 1em 0;
+    margin: 50em 0;
     list-style: none;
 
     &:hover,
     &:focus-within {
       .post-link {
-        opacity: .6;
+        opacity: 1;
       }
     }
   }
