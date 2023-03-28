@@ -960,14 +960,13 @@ figcaption {
 
   // footnotes
   .footnote {
-    border: 1px solid;
+    border: 1px;
     border-radius: 1em;
     color: rgb(0, 255, 255);
     display: inline;
     font-size: .75em;
     font-weight: 700;
     padding: 0 .75em;
-    text-decoration: none;
     margin: 0 .25em;
 
     &:hover,
