@@ -17,7 +17,7 @@ title: "Bratkartoffeln"
 * 1 oignon moyen
 * 250 g de lardons fumés
 * 5 c. à soupe de beurre clarifié
-* 1 c. à soupe de gros sel
+* 1 c. à soupe de gros sell
 * Sel et poivre au goût
 
 ### **La préparation**
