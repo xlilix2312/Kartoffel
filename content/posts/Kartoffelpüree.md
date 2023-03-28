@@ -20,7 +20,7 @@ title: "Kartoffelpüree"
 
 ### **La préparation**
 1. Les pommes de terre sont bouillies dans une casserole avec de l’eau salée.
-2. Elles sont cuites jusqu’à ce qu’elles deviennent molles. Environ 20 minutes. Après cela, vidangez l’eau. 
+2. Elles sont cuites jusqu’à ce qu’elles deviennent molles. Environ 20 minutes. Après cela, vidangez l’eau.
 3. Maintenant, écraser vos pommes de terre en purée avec, par exemple, une fourchette.
 4. Chauffer le beurre et le lait un peu au micro-ondes. Ajouter ces deux choses aux pommes de terre à feu doux. Mélanger jusqu’à formation d’une masse homogène.
 5. Ajoutez encore du beurre ou du lait si vous voulez que le mélange soit plus liquide. Salez et poivrez au goût.
