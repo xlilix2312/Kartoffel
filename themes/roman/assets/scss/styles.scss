@@ -979,7 +979,7 @@ figcaption {
   .footnotes::before {
     content: '';
     @include divider;
-    margin: 4em auto;
+    margin: 1em auto;
     $text-color: #ff0000;
   }
 
