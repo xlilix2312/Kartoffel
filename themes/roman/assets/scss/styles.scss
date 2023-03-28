@@ -971,8 +971,8 @@ figcaption {
 
     &:hover,
     &:focus {
-      background: $brand-color;
-      border-color: $brand-color;
+      background: #ff0000;
+      border-color: #ff0000;
     }
   }
 
@@ -980,6 +980,7 @@ figcaption {
     content: '';
     @include divider;
     margin: 4em auto;
+    $text-color: #ff0000;
   }
 
   .footnotes {
