@@ -168,10 +168,10 @@ select {
 }
 
 // variables
-$brand-color: #3b91e2;
+$brand-color: #74b3ee;
 $highlight: lighten($brand-color, 35%);
 $text-color: #0b0404;
-$muted-text-color: #ff0000;
+$muted-text-color: #f7a842;
 $font-family: "EB Garamond",
 Garamond,
 "Times New Roman",
@@ -639,7 +639,7 @@ small {
 
 p>cite {
   display: block;
-  text-align: right;
+  text-align: left;
 }
 
 hr {
