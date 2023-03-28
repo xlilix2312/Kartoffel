@@ -171,7 +171,7 @@ select {
 $brand-color: #74b3ee;
 $highlight: lighten($brand-color, 35%);
 $text-color: #0b0404;
-$muted-text-color: #f7a842;
+$muted-text-color: #ff9100;
 $font-family: "EB Garamond",
 Garamond,
 "Times New Roman",
@@ -962,7 +962,7 @@ figcaption {
   .footnote {
     border: 1px solid $muted-text-color;
     border-radius: 1em;
-    color: $text-color;
+    color: rgb(0, 255, 255);
     display: inline;
     font-size: .75em;
     font-weight: 700;
