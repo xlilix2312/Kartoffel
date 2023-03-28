@@ -15,7 +15,7 @@ title: "Kartoffelpüree"
 ### **Les ingrédients**
 * 1 kg de pommes de terre épluchées
 * 200 ml de lait chaud
-* 4 c. à soupe de beurre 
+* 4 c. à soupe de beurree 
 * Sel et poivre au goût
 
 ### **La préparation**
