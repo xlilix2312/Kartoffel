@@ -960,7 +960,7 @@ figcaption {
 
   // footnotes
   .footnote {
-    border: 1px solid $muted-text-color;
+    border: 1px solid;
     border-radius: 1em;
     color: rgb(0, 255, 255);
     display: inline;
