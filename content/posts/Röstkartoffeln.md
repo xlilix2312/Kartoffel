@@ -1,8 +1,8 @@
 ---
-title: "Bratkartoffeln"
+title: "Röstkartoffeln"
 ---
 
-## ***Bratkartoffeln* ou les pommes de terre sautées**
+## ***Röstkartoffeln* ou *Bratkartoffeln* ou les pommes de terre sautées**
 
 ![Les pommes de terre sautées au lardon](/images/Bratkartoffeln.jpg)
 

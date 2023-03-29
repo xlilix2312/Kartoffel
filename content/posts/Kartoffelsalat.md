@@ -39,4 +39,4 @@ Le *Kartoffelsalat* est un véritable classique en Allemagne. Une fois que vous 
 [^3]: Une saucisse légèrement fumée d'origine allemande
 
 
-[Aller à la recette *Bratkartoffeln*](https://xlilix2312.github.io/Kartoffel/bratkartoffeln/)
+[Aller à la recette *Röstkartoffeln*](https://xlilix2312.github.io/Kartoffel/röstkartoffeln/)
