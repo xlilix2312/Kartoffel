@@ -23,4 +23,4 @@ Désormais, la pomme de terre devient de plus en plus importante et ne cesse de 
 [^1]: Maurice Denuzière, 2003.
 [^2]: Proverbe irlandais.
 
-[En savoir plus sur les variétés de pomme de terre](https://xlilix2312.github.io/Kartoffel/vari%C3%A9t%C3%A9/)
+[En savoir plus sur les variétés de pomme de terre](https://xlilix2312.github.io/Kartoffel/diversit%C3%)
