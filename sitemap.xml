@@ -31,7 +31,7 @@
   </url>
   
   <url>
-    <loc>/bratkartoffeln/</loc>
+    <loc>/r%C3%B6stkartoffeln/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -85,7 +85,7 @@
   </url>
   
   <url>
-    <loc>/vari%C3%A9t%C3%A9/</loc>
+    <loc>/diversit%C3%A9/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
