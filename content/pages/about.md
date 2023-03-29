@@ -21,4 +21,4 @@ Je m'appelle Lili et je suis actuellement étudiante en échange à l'Universit�
 Je présente non seulement des recettes allemandes typiques avec des pommes de terre, mais j'informe aussi sur la pomme de terre en général. En conséquence, je discute de l’origine, de l’histoire, de la diffusion, des formes et des couleurs de la pomme de terre. De surcroît, je rapporte comment la pomme de terre a déjà sauvé de nombreuses vies pendant les famines.
 J'espère que vous aimez ma page web et que je peux vous informer et divertir en même temps. 
 
-Mais surtout, j'espère pouvoir vous inspirer pour mes recettes de pommes de terre préférées  !
+**Mais surtout, j'espère pouvoir vous inspirer pour mes recettes de pommes de terre préférées  !**
