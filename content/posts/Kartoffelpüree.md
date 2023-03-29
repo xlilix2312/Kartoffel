@@ -1,5 +1,6 @@
 ---
 title: "Kartoffelpüree"
+editor: "Lili Ricke"
 ---
 
 ## ***Kartoffelpüree* ou la purée de pommes de terre**

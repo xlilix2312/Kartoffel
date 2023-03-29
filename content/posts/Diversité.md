@@ -1,9 +1,6 @@
-+++
-
-+++
-
 ---
 title: "Diversité de la pomme de terre"
+editor: "Lili Ricke"
 ---
 
 ## **Quelques variétés de la *Kartoffel***

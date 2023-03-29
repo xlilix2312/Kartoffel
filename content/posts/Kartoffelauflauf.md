@@ -1,5 +1,6 @@
 ---
 title: "Kartoffelauflauf"
+editor: "Lili Ricke"
 ---
 
 ## ***Kartoffelauflauf* ou gratin de pommes de terre**

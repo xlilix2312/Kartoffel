@@ -1,5 +1,6 @@
 ---
 title: "Histoire de la pomme de terre"
+editor: "Lili Ricke"
 ---
 
 ## **L’histoire de la *Kartoffel* en un coup d’œil**

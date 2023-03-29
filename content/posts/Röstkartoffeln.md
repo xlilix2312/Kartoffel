@@ -1,5 +1,6 @@
 ---
 title: "Röstkartoffeln"
+editor: "Lili Ricke"
 ---
 
 ## ***Röstkartoffeln* ou *Bratkartoffeln* ou les pommes de terre sautées**

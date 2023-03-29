@@ -1,5 +1,6 @@
 ---
 title: "Kartoffelpuffer"
+editor: "Lili Ricke"
 ---
 
 ## ***Kartoffelpuffer* ou les galettes de pomme de terre**

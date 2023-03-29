@@ -1,5 +1,6 @@
 ---
 title: "Kartoffelsalat"
+editor: "Lili Ricke"
 ---
 
 ## ***Kartoffelsalat* ou la salade de pomme de terre**
