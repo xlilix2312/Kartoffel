@@ -169,13 +169,13 @@ select {
 
 // variables
 $brand-color: #90c2f1;
-$highlight: lighten($linkcolor, 35%);
+$highlight: lighten($brand-color, 35%);
 $text-color: #0b0404;
 $muted-text-color: #ff0095;
 $font-family: "EB Garamond",
 Garamond,
 "Times New Roman",
-serif;j
+serif;
 $font-family2: "Old London";
 $linkcolor: #09ff00;
 $urlcolor: #ff0095;
