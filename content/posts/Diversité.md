@@ -1,5 +1,5 @@
 ---
-title: "Variété de la pomme de terre"
+title: "Diversité de la pomme de terre"
 ---
 
 ## **Quelques variétés de la *Kartoffel***
