@@ -12,7 +12,7 @@ type: colophon
 
 Je m'appelle Lili et je suis actuellement étudiante en échange à l'Université de Montréal. Je suis née et j'ai grandi en Allemagne, ce qui m'a motivé à créer cette page web sur la pomme de terre, un aliment populaire en Allemagne. Cette page web existe grâce au cours *FRA 3825 Pratiques de l'édition numérique*, que je suis à l'Université de Montréal.
 
-![La diversité de la pomme de terre](/images/Sauerland.gif)
+![Ma ville natale en Allemagne](/images/Sauerland.gif)
 
 
  ## **L'objet de cette page web**
