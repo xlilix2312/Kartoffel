@@ -984,23 +984,23 @@ figcaption {
     content: '';
     @include divider;
     margin: 1em auto;
-    color: #00ffff;
+    color: #ff0000;
   }
 
   .footnotes {
     margin-bottom: 4em;
-    color: #00ffff;
+    color: #ff0000;
   }
 
   .footnotes li {
     margin-bottom: 1em;
-    color: #00ffff;
+    color: #ff0000;
   }
 
   .reversefootnote {
     font-size: .75em;
     opacity: .75;
-    color: #00ffff;
+    color: #ff0000;
   }
 
   // search
