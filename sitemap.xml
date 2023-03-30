@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>/%C3%A0_propos/</loc>
     <lastmod>2023-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -26,6 +26,12 @@
   <url>
     <loc>/toc/</loc>
     <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/cr%C3%A9dits/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
