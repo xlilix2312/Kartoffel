@@ -5,7 +5,7 @@ editor: "Lili Ricke"
 
 ## ***Kartoffelauflauf* ou gratin de pommes de terre**
 
-![Le gratin de pommes de terre](/images/Kartoffelauflauf.JPG)
+![Le gratin de pommes de terre](/images/Kartoffelauf.JPG)
 
 **Temps**       75 minutes
 
