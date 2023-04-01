@@ -168,7 +168,7 @@ select {
 }
 
 // variables
-$brand-color: #90c2f1;
+$brand: linear-gradient(blue, red);
 $highlight: lighten($brand-color, 35%);
 $text-color: #0b0404;
 $muted-text-color: #ff0095;
