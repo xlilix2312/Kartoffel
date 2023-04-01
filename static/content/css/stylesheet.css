@@ -83,7 +83,7 @@ figcaption { font-family: serif; text-align: center; font-style: italic; font-si
  kann es bei einigen Bildern hilfreich sein, diese neben dem Text anzuordnen*/
 @media (orientation:landscape)  {
 figure.l {display: block; width: 50%; max-width: 30em; float: left}  
-figure.r {display: block; width: 50%; max-width: 30em; float: right}    
+figure.r {display: block; width: 50%; max-width: 30em; float: left}    
 }
 
 /* Gedicht Strophen */
