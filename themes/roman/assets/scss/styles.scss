@@ -168,8 +168,8 @@ select {
 }
 
 // variables
-$brand-color: linear-gradient(blue, red);
-$highlight: lighten(red, 35%);
+$brand-color: #90c2f1;
+$highlight: lighten ($brand-color, 35%);
 $text-color: #0b0404;
 $muted-text-color: #ff0095;
 $font-family: "EB Garamond",
