@@ -48,6 +48,33 @@ Cours  :        FRA3825 Pratiques de l'edition numérique
 
 12. Viatours (2020). *Sauerland - Karte - Urlaub in Deutschland - Reiseführer viatoura*[image en ligne]. [https://www.bing.com/images/search?view=detailV2&ccid=NmNuhYO1&id=DAC9D646938A4A9DABD826393C7D5B210381F575&thid=OIP.NmNuhYO1BDzCBwBzT6BdKAHaKG&mediaurl=https%3a%2f%2fwww.viatoura.de%2fimages%2fgermany%2fkarte_sauerland.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.36636e8583b5043cc20700734fa05d28%3frik%3ddfWBAyFbfTw5Jg%26pid%3dImgRaw%26r%3d0&exph=165&expw=121&q=sauerland+pfeil+deutschland+karte&simid=608013218922448025&FORM=IRPRST&ck=D28C51C19E9C3B7E3BEC9160E175B7C7&selectedIndex=81&ajaxhist=0&ajaxserp=0](https://www.bing.com/images/search?view=detailV2&ccid=NmNuhYO1&id=DAC9D646938A4A9DABD826393C7D5B210381F575&thid=OIP.NmNuhYO1BDzCBwBzT6BdKAHaKG&mediaurl=https%3a%2f%2fwww.viatoura.de%2fimages%2fgermany%2fkarte_sauerland.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.36636e8583b5043cc20700734fa05d28%3frik%3ddfWBAyFbfTw5Jg%26pid%3dImgRaw%26r%3d0&exph=165&expw=121&q=sauerland+pfeil+deutschland+karte&simid=608013218922448025&FORM=IRPRST&ck=D28C51C19E9C3B7E3BEC9160E175B7C7&selectedIndex=81&ajaxhist=0&ajaxserp=0).
 
-### Les pages web
+### **Les pages web**
 
-Thomdrew. (2012, 1 février). *Galettes de pommes de terre.* Recettes du Québec. [https://www.recettes.qc.ca/recettes/recette/galettes-de-pommes-de-terre-222118]( https://www.recettes.qc.ca/recettes/recette/galettes-de-pommes-de-terre-222118).
+1. Cuisineaz. *Pommes de terre sautées campagnarde.* Cuisineaz. [https://www.cuisineaz.com/recettes/pommes-de-terre-sautees-campagnarde-54878.aspx]( https://www.cuisineaz.com/recettes/pommes-de-terre-sautees-campagnarde-54878.aspx).
+
+2. Giroux, David. *Purée de pommes de terre.* Mordu. [https://ici.radio-canada.ca/mordu/recettes/1484/preparer-puree-pommes-terre]( https://ici.radio-canada.ca/mordu/recettes/1484/preparer-puree-pommes-terre). 
+
+3. Jean et Lolotte. *Salade allemande aux pommes de terre.* Marmiton. [https://www.marmiton.org/recettes/recette_salade-allemande-aux-pommes-de-terre_28039.aspx]( [https://www.marmiton.org/recettes/recette_salade-allemande-aux-pommes-de-terre_28039.aspx).
+
+4. Les pommes de terre. *Origine de la pomme de terre.* Lespommesdeterre. [https://www.lespommesdeterre.com/histoire/](https://www.lespommesdeterre.com/histoire/).
+
+5. M., Patricia. *Gratin de pommes de terre.* Marmiton. [https://www.marmiton.org/recettes/recette_gratin-de-pommes-de-terre_27775.aspx]( https://www.marmiton.org/recettes/recette_gratin-de-pommes-de-terre_27775.aspx).
+
+6. Ooreka. *Pomme de terre blanche.* Ooreka. [https://jardinage.ooreka.fr/astuce/voir/342756/pomme-de-terre-blanche]( [https://jardinage.ooreka.fr/astuce/voir/342756/pomme-de-terre-blanche).
+
+7. Ooreka. *Pomme de terre bleue d’Artois.* Ooreka. [https://jardinage.ooreka.fr/astuce/voir/659501/pomme-de-terre-bleue-d-artois#:~:text=La%20pomme%20de%20terre%20bleue%20d%27Artois%20est%20une,de%20terre%20bleue%20d%27Artois%20%3A%20origine%20et%20caractéristiques]( https://jardinage.ooreka.fr/astuce/voir/659501/pomme-de-terre-bleue-d-artois#:~:text=La%20pomme%20de%20terre%20bleue%20d%27Artois%20est%20une,de%20terre%20bleue%20d%27Artois%20%3A%20origine%20et%20caractéristiques).
+
+8. Ooreka. *Pomme de terre Jeannette.* Ooreka. [https://jardinage.ooreka.fr/astuce/voir/531297/pomme-de-terre-jeannette]( https://jardinage.ooreka.fr/astuce/voir/531297/pomme-de-terre-jeannette).
+
+9. Thomdrew. (2012, 1 février). *Galettes de pommes de terre.* Recettes du Québec. [https://www.recettes.qc.ca/recettes/recette/galettes-de-pommes-de-terre-222118]( https://www.recettes.qc.ca/recettes/recette/galettes-de-pommes-de-terre-222118).
+
+10. Wikipédia. (2023, 5 février). *Antoine Parmentier.* Wikipédia. [https://fr.wikipedia.org/wiki/Antoine_Parmentier](https://fr.wikipedia.org/wiki/Antoine_Parmentier).
+
+11. Wikipédia. (2023, 7 janvier). *Bockwurst.* Wikipedia. [https://fr.wikipedia.org/wiki/Bockwurst]( https://fr.wikipedia.org/wiki/Bockwurst).
+
+12. Wikipédia. (2023, 30 mars). *Cordillère des Andes.* Wikipédia. [https://fr.wikipedia.org/wiki/Cordillère_des_Andes](https://fr.wikipedia.org/wiki/Cordillère_des_Andes).
+
+13. Wikipédia. (2023, 11 avril). *Pomme de terre.* Wikipédia. [https://fr.wikipedia.org/wiki/Pomme_de_terre#Histoire_et_diffusion_de_la_pomme_de_terre]( https://fr.wikipedia.org/wiki/Pomme_de_terre#Histoire_et_diffusion_de_la_pomme_de_terre).
+
+14. Wikipédia. (2022, 26 octobre). *Variété de pommes de terre.* Wikipédia. [https://fr.wikipedia.org/wiki/Variété_de_pommes_de_terre]( https://fr.wikipedia.org/wiki/Variété_de_pommes_de_terre).
+
