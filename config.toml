@@ -18,8 +18,9 @@ name = "Impression"
 url = "/print"
 weight = 3
 [[menu.nav]]
+identifier = "Crédits"
 name = "Crédits"
-url = "/credits/"
+url = "/Credits/"
 weight = 4
 [outputs]
 home = ["HTML"]
