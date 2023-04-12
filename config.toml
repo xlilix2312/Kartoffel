@@ -17,6 +17,10 @@ identifier = "print"
 name = "Impression"
 url = "/print"
 weight = 3
+[[menu.nav]]
+name = "Crédits"
+url = "/credits/"
+weight = 4
 [outputs]
 home = ["HTML"]
 page = ["HTML"]
