@@ -59,7 +59,8 @@ enable = false
 expire_days = 2
 
 [[menu.nav]]
-                            name = "Crédits"
-                            url = "/credits/"
-                            weight = 4
+ name = "Crédits"
+ url = "/credits/"
+ weight = 4
+ 
                             
