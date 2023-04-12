@@ -10,6 +10,13 @@
   </url>
   
   <url>
+    <loc>/cr%C3%A9dits/</loc>
+    <lastmod>2023-01-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2023-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -26,12 +33,6 @@
   <url>
     <loc>/toc/</loc>
     <lastmod>2023-01-21T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>/cr%C3%A9dits/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
