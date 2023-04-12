@@ -17,10 +17,10 @@ identifier = "print"
 name = "Impression"
 url = "/print"
 weight = 3
-[[menu.nav]]
+[[menu.main]]
 identifier = "Crédits"
 name = "Crédits"
-url = "/Credits/"
+url = "/Crédits/"
 weight = 4
 [outputs]
 home = ["HTML"]
