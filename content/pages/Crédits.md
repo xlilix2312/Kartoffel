@@ -5,19 +5,29 @@ weight: 50
 type: colophon
 ---
 
+## **Crédits**
 
-Crédits
 
-Auteur          Lili Ricke
-Institution     Université de Montréal
-Teacher         Margot Mellet
-Date            20.04.2023
-Cours           FRA3825 Pratiques de l'edition numérique
 
-Les images  :
-Maciarka (1899, 30 novembre). *Zemiakové placky*[image en ligne]. Wikimedia Commons. [https://upload.wikimedia.org/wikipedia/commons/e/e9/Zemiakov%C3%A9_placky_%E3%82%BC%E3%83%9F%E3%82%A2%E3%82%B3%E3%83%99%E3%83%BC%E3%83%BB%E3%83%97%E3%83%A9%E3%83%84%E3%82%AD%E3%83%BC.JPG](https://upload.wikimedia.org/wikipedia/commons/e/e9/Zemiakov%C3%A9_placky_%E3%82%BC%E3%83%9F%E3%82%A2%E3%82%B3%E3%83%99%E3%83%BC%E3%83%BB%E3%83%97%E3%83%A9%E3%83%84%E3%82%AD%E3%83%BC.JPG).
+Auteur  :       Lili Ricke
 
-Einfachkartoffel (2022, 1 février). *Bratkartoffeln-mit-Speck*[image en ligne]. [https://upload.wikimedia.org/wikipedia/commons/e/e6/Bratkartoffeln-mit-Speck.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e6/Bratkartoffeln-mit-Speck.jpg).
+Institution  :  Université de Montréal
+
+Professeur  :   Margot Mellet
+
+Date  :         20.04.2023
+
+Cours  :        FRA3825 Pratiques de l'edition numérique
+
+
+
+### **Les images**
+
+1. Maciarka (1899, 30 novembre). *Zemiakové placky*[image en ligne]. Wikimedia Commons. [https://upload.wikimedia.org/wikipedia/commons/e/e9/Zemiakov%C3%A9_placky_%E3%82%BC%E3%83%9F%E3%82%A2%E3%82%B3%E3%83%99%E3%83%BC%E3%83%BB%E3%83%97%E3%83%A9%E3%83%84%E3%82%AD%E3%83%BC.JPG](https://upload.wikimedia.org/wikipedia/commons/e/e9/Zemiakov%C3%A9_placky_%E3%82%BC%E3%83%9F%E3%82%A2%E3%82%B3%E3%83%99%E3%83%BC%E3%83%BB%E3%83%97%E3%83%A9%E3%83%84%E3%82%AD%E3%83%BC.JPG).
+
+2. Einfachkartoffel (2022, 1 février). *Bratkartoffeln-mit-Speck*[image en ligne]. [https://upload.wikimedia.org/wikipedia/commons/e/e6/Bratkartoffeln-mit-Speck.jpg](https://upload.wikimedia.org/wikipedia/commons/e/e6/Bratkartoffeln-mit-Speck.jpg).
+
+
 
 Sousvideguy (2018, 31 mai). *Sous vide mashed potatoes*[image en ligne]. [https://upload.wikimedia.org/wikipedia/commons/5/51/Sous_vide_mashed_potatoes.jpg](https://upload.wikimedia.org/wikipedia/commons/5/51/Sous_vide_mashed_potatoes.jpg).
 
