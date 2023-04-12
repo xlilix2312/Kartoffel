@@ -1,3 +1,11 @@
+---
+title: Crédits
+date: 2023-01-21
+weight: 50
+type: colophon
+---
+
+
 Crédits
 
 Auteur          Lili Ricke
