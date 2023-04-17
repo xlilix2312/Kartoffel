@@ -564,13 +564,13 @@ body {
 h1 {
   font-size: 3em;
   margin: .5em auto;
-  font-family: "Portico";
+  font-family: $font-family;
 }
 
 h1.gothic {
   font-size: 3em;
   margin: .5em auto;
-  font-family: "Portico";
+  font-family: $font-family2;
 }
 
 h2 {
