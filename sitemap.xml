@@ -10,7 +10,7 @@
   </url>
   
   <url>
-    <loc>/cr%C3%A9dits/</loc>
+    <loc>/credits/</loc>
     <lastmod>2023-01-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>/diversit%C3%A9/</loc>
+    <loc>/diversite/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -68,7 +68,7 @@
   </url>
   
   <url>
-    <loc>/kartoffelp%C3%BCree/</loc>
+    <loc>/kartoffelpueree/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -86,7 +86,7 @@
   </url>
   
   <url>
-    <loc>/r%C3%B6stkartoffeln/</loc>
+    <loc>/roestkartoffeln/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
