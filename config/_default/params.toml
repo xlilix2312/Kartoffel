@@ -1,6 +1,6 @@
 auteur = "Lili Ricke"
 introduction = "Ma page web sur l'histoire, la diversité et les recettes de la pomme de terre"
-bloctexte = "justify"
+bloctexte = "left"
 copyright = "CC BY-NC-SA"
 couverture = "/images/Kartoffelpflanze.jpg"
 description = "Cette page informe sur l'histoire, la diversité et les recettes de la pomme de terre"
