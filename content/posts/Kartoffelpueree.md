@@ -9,7 +9,7 @@ editor: "Lili Ricke"
 
 **Temps**       30 minutes
 
-**Portions**    4 portionss
+**Portions**    4 portions
 
 
 
