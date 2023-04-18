@@ -6,7 +6,7 @@
         {{ else }}
         <li class="post-item">
             <a href="#{{.File.BaseFileName}}">
-                <span class="post-title" id="{{.Title}}">{{.Title}}{{ if .Params.chapter }} — {{.Params.chapter }}{{ end }}</span>
+                <span class="post-title" id="pp-{{.Title}}">{{.Title}}{{ if .Params.chapter }} — {{.Params.chapter }}{{ end }}</span>
             </a>
         </li>
         {{end}}
